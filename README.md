@@ -7,10 +7,10 @@ Purple Dezigns is a passionate design studio committed to delivering captivating
 
 ## Built with:
 
-HTML
-CSS
-JavaScript
-Bootstrap
+#### HTML
+#### CSS
+#### JavaScript
+#### Bootstrap
 
 ## Our Technologies:
 
